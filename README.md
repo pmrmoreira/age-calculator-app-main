@@ -19,7 +19,7 @@ This is a web application that calculates the age of a person based on the date 
 - Provides a bonus feature that animates the age numbers to their final number when the form is submitted.
 
 ## Screenshot
-![image](https://user-images.githubusercontent.com/79330219/235176397-40982c0f-2c47-431e-a798-2d6602fb061f.png)
+![image](https://user-images.githubusercontent.com/79330219/235179301-c3fadf94-d31a-4311-9894-3daa1836e3d3.png)
 
 ## Demo
 You can try out the application [here](https://age-calculator-app-main-orpin.vercel.app).
