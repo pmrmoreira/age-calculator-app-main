@@ -48,5 +48,5 @@ Alternatively, you can open the project in a code editor and use the live server
 ## Author
 Pedro Moreira
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/PedroMoreira-a22002701)
+- Frontend Mentor - [@PedroMoreira-a22002701](https://www.frontendmentor.io/profile/PedroMoreira-a22002701)
 
