@@ -20,16 +20,16 @@ This is a web application that calculates the age of a person based on the date 
 - Provides a bonus feature that animates the age numbers to their final number when the form is submitted.
 
 ## Screenshot
-![Age Calculator App screenshot](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/79330219/235176397-40982c0f-2c47-431e-a798-2d6602fb061f.png)
 
 ## Demo
-You can try out the application [here](https://example.com).
+You can try out the application [here](https://age-calculator-app-main-orpin.vercel.app).
 
 ## Built With
 - HTML
 - CSS
 - JavaScript
-- Bootstrap (optional)
+
 
 ## Getting Started
 To get a local copy up and running, follow these steps:
@@ -45,8 +45,8 @@ Alternatively, you can open the project in a code editor and use the live server
 2. Click the "Calculate Age" button to calculate the age of the person.
 3. If the date of birth is invalid or incomplete, validation errors will be displayed on the page.
 
-## Contributing
-Contributions are welcome! Fork the repository and make your changes. Submit a pull request and your changes will be reviewed and merged.
+## Author
+Pedro Moreira
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/PedroMoreira-a22002701)
+
