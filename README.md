@@ -9,8 +9,7 @@ This is a web application that calculates the age of a person based on the date 
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Author](#author)
 
 ## Features
 - Calculates the age of a person in years, months, and days based on the date of birth entered by the user.
@@ -34,7 +33,7 @@ You can try out the application [here](https://age-calculator-app-main-orpin.ver
 ## Getting Started
 To get a local copy up and running, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/age-calculator-app.git`
+1. Clone the repository: `git clone https://github.com/PedroMoreira-a22002701/age-calculator-app-main.git`
 2. Navigate to the project directory: `cd age-calculator-app`
 3. Open the `index.html` file in your browser.
 
