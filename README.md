@@ -2,6 +2,27 @@
 
 This is a web application that calculates the age of a person based on the date of birth entered by the user.
 
+<div align="center">
+  <!-- Profiles -->
+  <a href="https://www.frontendmentor.io/profile/PedroMoreira-a22002701" target="_blank">
+    
+  </a>  &nbsp;&nbsp;&nbsp;
+
+  <!-- Status -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status Completed">
+  </a>&nbsp;&nbsp;&nbsp;
+
+
+  <!-- Difficulty -->
+  <a href="https://www.frontendmentor.io/challenges?difficulties=1"  target="_blank">
+    <img src="https://img.shields.io/badge/Difficulty-Newbie-61BECD?style=for-the-badge&logo=frontendmentor" alt="Challenge Difficulty - Newbie">
+  </a>
+
+</div>
+<br />
+<br />
+
 ## Table of Contents
 - [Features](#features)
 - [Screenshot](#screenshot)
