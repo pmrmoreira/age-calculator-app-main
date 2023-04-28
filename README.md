@@ -12,7 +12,7 @@ This is a web application that calculates the age of a person based on the date 
 
   <!-- Difficulty -->
   <a href="https://www.frontendmentor.io/challenges?difficulties=1"  target="_blank">
-    <img src="https://img.shields.io/badge/Difficulty-Newbie-61BECD?style=for-the-badge&logo=frontendmentor" alt="Challenge Difficulty - Newbie">
+    <img src="https://img.shields.io/badge/Difficulty-Junior-dBQvhX?style=for-the-badge&logo=frontendmentor" alt="Challenge Difficulty - Junior">
   </a>
 
 </div>
