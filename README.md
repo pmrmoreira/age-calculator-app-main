@@ -3,6 +3,7 @@
 This is a web application that calculates the age of a person based on the date of birth entered by the user.
 
 <div align="center">
+  <br />
   <!-- Status -->
   <a href="#">
     <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status Completed">
