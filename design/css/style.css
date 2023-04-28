@@ -68,6 +68,7 @@ input::placeholder {
     font-size: 1.5rem;
     font-weight: 800;
 }
+
 .submit_block {
     display: flex;
     align-items: center;
@@ -103,6 +104,33 @@ small {
 
 
 @media screen and (max-width:600px) {
+
+    .card {
+        width: 360px;
+    }
+    .container {
+        padding: 1rem;
+    }
+    .form_container {
+        margin-bottom: 5rem;
+        gap: 0;
+        justify-content: space-between;
+    }
+    .submit_block {
+        position: relative;
+    }
+    .submit_btn {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+    .output {
+        margin-top: 5rem;
+    }
+    .output h1 {
+        font-size: 3.5rem;
+    }
 
     
 }
